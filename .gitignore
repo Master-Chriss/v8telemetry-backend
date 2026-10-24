@@ -1,0 +1,21 @@
+
+# Dependencies
+node_modules/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+
+# Coverage and generated files
+coverage/
+dist/
+
+# Operating system and editor
+.DS_Store
+Thumbs.db
+.vscode/
